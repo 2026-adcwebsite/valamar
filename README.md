@@ -1,1 +1,1 @@
-# valamar
+# hotels
